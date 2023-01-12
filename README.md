@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/l0nax" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ![l0nax's GitHub stats](https://github-readme-stats.vercel.app/api?username=l0nax&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l0nax&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
