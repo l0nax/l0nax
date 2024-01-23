@@ -1,7 +1,8 @@
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109684258576337350?domain=https%3A%2F%2Fmastodon.l0nax.org&style=social)
 <br/>
 
- **Check out my GitLab Profile!:** ![Static Badge](https://img.shields.io/badge/l0nax-x?style=social&logo=gitlab&link=https%3A%2F%2Fgitlab.com%2Fl0nax)
+ **Check out my GitLab Profile!:** [![GitLab Profile](https://img.shields.io/badge/l0nax-x?style=social&logo=gitlab&link=https%3A%2F%2Fgitlab.com%2Fl0nax)](https://gitlab.com/l0nax)
+
 <br/>
 
 <a href="https://www.buymeacoffee.com/l0nax" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
